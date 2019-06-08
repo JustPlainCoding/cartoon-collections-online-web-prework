@@ -19,4 +19,5 @@ def find_the_cheese(snacks)
       return type
     end
   end
+return nil
 end
